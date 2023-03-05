@@ -30,5 +30,5 @@ Smartphone Screen:
 
 ## Credit 
 
-This project is created by [Pranav Ashish](https://github.com/pranavashish).
+This project is created by [Pranav 🥺](https://pranavashish.netlify.app/).
 
